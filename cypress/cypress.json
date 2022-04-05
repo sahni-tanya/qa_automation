@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://dikshitashirodkar.com/",
+  "video": false,
+  "reporterOptions": {
+    "mochaFile": "cypress/results/tests-[hash].xml",
+    "toConsole": true
+  }
+}
