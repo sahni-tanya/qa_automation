@@ -1,0 +1,19 @@
+{
+  "name": "qa_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahni-tanya/qa_automation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahni-tanya/qa_automation/issues"
+  },
+  "homepage": "https://github.com/sahni-tanya/qa_automation#readme"
+}
