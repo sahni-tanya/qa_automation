@@ -21,3 +21,4 @@ workflows:
                 path: cypress/results
             - store_artifacts:
                 path: cypress/screenshots
+
